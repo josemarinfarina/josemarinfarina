@@ -1,10 +1,8 @@
-## Hi there 👋
+![Overview stats](https://raw.githubusercontent.com/josemarinfarina/github-stats/master/generated/overview.svg)
+![Languages stats](https://raw.githubusercontent.com/josemarinfarina/github-stats/master/generated/languages.svg)
 
-![](https://raw.githubusercontent.com/josemarinfarina/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/josemarinfarina/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/josemarinfarina/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/josemarinfarina/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!-- 
 **josemarinfarina/josemarinfarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
